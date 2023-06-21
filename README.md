@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @andreaabadillo a freshmen computer science student!
+- 👋 Hi, I’m @andreaabadillo a sophmore computer science student!
 - 👀 I’m interested in cibersecurity and just creating projects to gain experience. Currently I'm working on a Twitter bot!
 - 🌱 I’m currently learning C++ with Oriented Object Programming, still learning Python. You could say that I have some experience coding. Also, studying an ethical hacking course!
 - :D I’m looking to collaborate on projects that may include cibersecurity, artificial intelligence, bots for different platforms, etc.
