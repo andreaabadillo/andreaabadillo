@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @andreaabadillo a Senios computer science student!
+- 👋 Hi, I’m @andreaabadillo a Senior computer science student!
 - 👀 I’m interested in cibersecurity and just creating projects to gain experience.
 - :D I’m looking to collaborate on projects that may include cibersecurity, artificial intelligence, bots for different platforms, etc.
 - 📫 How to reach me: you can reach me via my instagram @aandbadi or my email andrea.badillo03@gmail.com
