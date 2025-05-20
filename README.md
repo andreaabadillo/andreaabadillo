@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @andreaabadillo a Senior computer science student!
-- 👀 I’m interested in cibersecurity and just creating projects to gain experience.
-- :D I’m looking to collaborate on projects that may include cibersecurity, artificial intelligence, bots for different platforms, etc.
-- 📫 How to reach me: you can reach me via my instagram @aandbadi or my email andrea.badillo03@gmail.com
+- 👋 Hi, I’m @andreaabadillo a Senior Computer Science student!
 
 <!---
 andreaabadillo/andreaabadillo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
